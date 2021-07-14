@@ -9,7 +9,7 @@ const IndexPage = () => {
       <p>This painting was missing for over 5000 years but Francis found it and hosted it on Gatsby cloud</p>
       <StaticImage
         alt="Francis in a Gallery in London"
-        src="../images/francis.jpg"
+        src="../images/francis.JPG"
       />
     </Layout>
   )
